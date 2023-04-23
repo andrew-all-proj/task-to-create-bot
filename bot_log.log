@@ -1,0 +1,275 @@
+[17:54:15] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[17:54:16] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[17:54:16] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[17:54:16] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[17:54:22] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:54:33] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:54:44] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:54:54] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:55:05] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:55:15] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:55:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:55:36] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:56:03] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:56:19] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[17:56:19] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[17:56:20] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[17:56:24] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[17:56:25] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[17:56:46] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[17:57:43] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[17:57:44] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[17:57:45] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[17:57:45] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[17:57:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:58:02] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:58:12] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:58:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+[17:58:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[17:58:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:03:47] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[18:03:48] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:03:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:03:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:04:27] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-46' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'api_key_weather' is not defined")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\weather.py", line 15, in get_weather
+    params = {"q": message.text, "appid": api_key_weather, "units": "metric"}
+NameError: name 'api_key_weather' is not defined
+[18:04:55] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-50' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'api_key_weather' is not defined")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\weather.py", line 15, in get_weather
+    params = {"q": message.text, "appid": api_key_weather, "units": "metric"}
+NameError: name 'api_key_weather' is not defined
+[18:05:38] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:05:38] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:05:39] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[18:05:41] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:05:42] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:05:42] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:05:56] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'api_key_weather' is not defined")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\weather.py", line 15, in get_weather
+    params = {"q": message.text, "appid": api_key_weather, "units": "metric"}
+NameError: name 'api_key_weather' is not defined
+[18:06:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:06:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:06:58] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[18:06:58] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:06:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:06:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
