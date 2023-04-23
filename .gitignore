@@ -1,5 +1,4 @@
 __pycache__
 venv
 .idea
-log_bot.log
-token_.py
+bot_log.log
