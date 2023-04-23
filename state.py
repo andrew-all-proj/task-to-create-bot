@@ -7,4 +7,6 @@ class State_bot(StatesGroup):
     st_currency_convertor = State()
     st_select_currency = State()
     st_random_picture = State()
+    st_create_poll = State()
+    st_create_answer = State()
 

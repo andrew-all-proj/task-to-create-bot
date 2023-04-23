@@ -273,3 +273,382 @@ NameError: name 'api_key_weather' is not defined
 [18:06:58] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
 [18:06:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
 [18:06:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:22:39] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:22:39] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:22:42] {D:\manager_tlg\backend\task-to-create-bot\app.py:36} INFO - start bot
+[18:22:42] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:22:43] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:22:43] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:29:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:29:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:29:08] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:29:11] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:29:13] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:29:13] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:29:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:29:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:29:52] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:29:53] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:29:53] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:29:53] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:30:05] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:30:05] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:30:06] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:30:06] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:30:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:30:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:30:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:30:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:30:50] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:30:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:30:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:30:51] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:31:31] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:31:31] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:31:32] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:31:33] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:31:34] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:31:34] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:32:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:32:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:32:24] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:32:25] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:32:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:32:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:33:02] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:33:02] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:33:03] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:33:03] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:33:04] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:33:04] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:33:55] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:33:55] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:33:56] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:33:56] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:33:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:33:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:35:45] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:35:45] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:35:45] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:35:46] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:35:46] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:35:46] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:35:57] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 16, in create_poll
+    question = await dp.current_handler.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler'
+[18:36:05] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 16, in create_poll
+    question = await dp.current_handler.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler'
+[18:36:33] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-27' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 16, in create_poll
+    question = await dp.current_handler.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler'
+[18:40:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:40:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:40:09] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:40:10] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:40:10] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:40:10] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:40:21] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler_register'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 15, in create_poll
+    await dp.current_handler_register(message.from_user.id)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler_register'
+[18:42:13] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:42:13] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:42:13] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:42:14] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:42:15] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:42:15] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:42:26] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler_registry'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 15, in create_poll
+    dp.current_handler = dp.current_handler_registry.add(dp.current_handler, message.from_user.id)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler_registry'
+[18:43:32] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:43:32] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:43:33] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:43:34] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:43:35] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:43:35] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:43:44] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'create_poll'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 16, in create_poll
+    question = await dp.create_poll.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'create_poll'
+[18:43:53] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'create_poll'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 16, in create_poll
+    question = await dp.create_poll.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'create_poll'
+[18:46:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:46:07] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:46:08] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:46:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:46:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:46:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:46:20] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler_registry'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 15, in create_poll
+    dp.current_handler = dp.current_handler_registry.add(dp.current_handler, message.from_user.id)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler_registry'
+[18:48:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:48:49] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:48:49] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:48:50] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:48:50] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:48:50] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[18:48:59] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 19, in create_poll
+    question = await dp.current_handler.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler'
+[18:49:02] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Dispatcher' object has no attribute 'current_handler'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 19, in create_poll
+    question = await dp.current_handler.collect_data(message)
+AttributeError: 'Dispatcher' object has no attribute 'current_handler'
+[18:54:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[18:54:09] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[18:54:10] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[18:54:10] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[18:54:11] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[18:54:11] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:00:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:00:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:00:24] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:00:25] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:00:25] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:00:25] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:06:22] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:06:22] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:06:23] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:06:23] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:06:24] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:06:24] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:08:36] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:08:36] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:08:36] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:08:37] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:08:37] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:08:37] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:09:12] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:09:12] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:09:13] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:09:13] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:09:14] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:09:14] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:09:40] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("Bot.send_poll() got an unexpected keyword argument 'poll'")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 26, in create_answer
+    await bot.send_poll(chat_id='5664897400', poll=poll)
+TypeError: Bot.send_poll() got an unexpected keyword argument 'poll'
+[19:14:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:14:26] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:14:27] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:14:28] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:14:28] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:14:28] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:14:53] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=CantTalkWithBots("Forbidden: bot can't send messages to bots")>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 30, in create_answer
+    await bot.send_poll(chat_id='5664897400', question=poll.question, options=poll.options, is_anonymous=poll.is_anonymous)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 1656, in send_poll
+    result = await self.request(api.Methods.SEND_POLL, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 121, in check_result
+    exceptions.Unauthorized.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.CantTalkWithBots: Forbidden: bot can't send messages to bots
+[19:16:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:433} INFO - Stop polling...
+[19:16:57] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:329} WARNING - Goodbye!
+[19:16:58] {D:\manager_tlg\backend\task-to-create-bot\app.py:37} INFO - start bot
+[19:16:58] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:362} INFO - Bot: test_my_bot_chanel [@manager_chanel_tests_bot]
+[19:16:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\executor.py:358} WARNING - Updates were skipped successfully.
+[19:16:59] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:358} INFO - Start polling.
+[19:17:13] {C:\Users\andrew\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:1729} ERROR - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=PollMustHaveMoreOptions('Poll must have at least 2 option')>
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "D:\manager_tlg\backend\task-to-create-bot\handlers\create_poll.py", line 30, in create_answer
+    await bot.send_poll(message.from_user.id, question=poll.question, options=poll.options, is_anonymous=poll.is_anonymous)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 1656, in send_poll
+    result = await self.request(api.Methods.SEND_POLL, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.PollMustHaveMoreOptions: Poll must have at least 2 option
+[19:51:42] {D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:390} ERROR - Cause exception while getting updates.
+Traceback (most recent call last):
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiogram\bot\api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiohttp\client.py", line 560, in _request
+    await resp.start(conn)
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiohttp\client_reqrep.py", line 894, in start
+    with self._timer:
+  File "D:\manager_tlg\backend\task-to-create-bot\venv\lib\site-packages\aiohttp\helpers.py", line 721, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError

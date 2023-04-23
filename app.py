@@ -25,8 +25,9 @@ logging.basicConfig(level=logging.INFO,
 async def on_startup(_):
     print("START ONLINE BOT")
 
-from handlers import main_meny, weather, currency_converter, random_pictures
+from handlers import main_meny, weather, currency_converter, random_pictures, create_poll
 
+create_poll.register_handler_create_poll(dp)
 weather.register_handler_weather(dp)
 currency_converter.register_handler_currency_convertor(dp)
 random_pictures.register_handler_random_picture(dp)
