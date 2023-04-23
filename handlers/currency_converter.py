@@ -23,7 +23,7 @@ async def currency_convertor(message: types.Message, state: FSMContext):
     base_url = "https://api.exchangeratesapi.io/latest"
     data = await state.get_data()
     async with aiohttp.ClientSession() as session:
-        url = f"https://api.apilayer.com/exchangerates_data/convert?to=RUB&from={message.text}&amount={data['amount']}"
+        url = f"https://api.apilayer.com/exchangerates_data/convert?to={message.text}&from=RUB&amount={data['amount']}"
         headers = {
             "apikey": api_key_currency_convertor
         }
